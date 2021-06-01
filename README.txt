@@ -1,4 +1,5 @@
-# David Lu #
+David Lu
+=============
 
 openjdk version "11.0.10" 2021-01-19
 OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.10+9)
